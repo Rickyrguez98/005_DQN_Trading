@@ -7,4 +7,5 @@ ta==0.10.2
 ipykernel==6.25.2
 scikit-learn==1.4.1.post1
 gymnasium==0.29.1
+gym_trading_env==0.3.3
 
